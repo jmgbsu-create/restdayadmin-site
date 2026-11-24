@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-label="Rest Day Admin">
+  <rect x="2" y="18" width="124" height="124" rx="28" fill="none" stroke="#2EC4B6" stroke-width="4"/>
+  <text x="64" y="92" text-anchor="middle" font-family="Montserrat, system-ui, sans-serif" font-weight="800" font-size="52" fill="#FFFFFF" letter-spacing="-1">RD</text>
+  <g fill="#2EC4B6">
+    <rect x="26" y="108" width="76" height="6" rx="3"/>
+    <rect x="28" y="100" width="7" height="22" rx="2"/>
+    <rect x="36" y="103" width="5" height="16" rx="2"/>
+    <rect x="93" y="100" width="7" height="22" rx="2"/>
+    <rect x="87" y="103" width="5" height="16" rx="2"/>
+  </g>
+  <text x="152" y="84" font-family="Montserrat, system-ui, sans-serif" font-weight="800" font-size="52" fill="#FFFFFF">REST DAY</text>
+  <text x="154" y="132" font-family="Montserrat, system-ui, sans-serif" font-weight="600" font-size="32" fill="#2EC4B6" letter-spacing="10">ADMIN</text>
+</svg>

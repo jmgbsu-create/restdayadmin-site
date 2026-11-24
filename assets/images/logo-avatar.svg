@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<rect width="1080" height="1080" fill="#14213D"/>
+<text x="540" y="600" text-anchor="middle" font-family="Montserrat" font-weight="800" font-size="400" fill="#FFFFFF" letter-spacing="-10">RD</text>
+<g fill="#2EC4B6">
+<rect x="230" y="700" width="620" height="34" rx="17"/>
+<rect x="250" y="650" width="44" height="134" rx="12"/><rect x="306" y="670" width="30" height="94" rx="10"/>
+<rect x="786" y="650" width="44" height="134" rx="12"/><rect x="744" y="670" width="30" height="94" rx="10"/>
+</g>
+</svg>
